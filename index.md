@@ -11,8 +11,9 @@ In this project we try to build small room with opengl. we build some object lik
 #### Youtube Demo Project
 [Youtube](https://www.youtube.com/watch?v=Wgt2vCaOvN0&feature=youtu.be)
 
-Preview
+#### Preview
 ![Image of Yaktocat](https://github.com/awzaldy/KamarKecil-Opengl/blob/master/kosan.PNG)
+
 ### Freedom Fighter Team 
 Grafkom and Visualisation - A
 ```markdown
