@@ -6,13 +6,13 @@ In this project we try to build small room with opengl. we build some object lik
 
 
 Source Code Project Small Room
+[Source Code](https://github.com/awzaldy/KamarKecil-Opengl/blob/master/FreedomFighter_Kelompok2.zip)
 ```markdown
-http://github.com - automatic!
-[GitHub](http://github.com)
 [Source Code](https://github.com/awzaldy/KamarKecil-Opengl/blob/master/FreedomFighter_Kelompok2.zip)
 ```
+Executable file
+[.Exe file](https://github.com/awzaldy/KamarKecil-Opengl/blob/master/Learing%20opengl%20small%20room.zip)
 ```
-[Source Code](https://github.com/awzaldy/KamarKecil-Opengl/blob/master/FreedomFighter_Kelompok2.zip)
 ```
 [Youtube](https://www.youtube.com/watch?v=Wgt2vCaOvN0&feature=youtu.be)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
