@@ -2,12 +2,13 @@
 
 In this project we try to build small room with opengl. we build some object like a table, fan, bed, wardrobe, and the room itself. as addtional we give a point lighting from top of the room that can switch on/off with [space] so we can give some example while the room has a lighting and not, for the object, we try to build it from the cube, so after that we change it to some object that we want like a table and bed with additional texture. 
 
-### Markdown
+### Source
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 Source Code Project Small Room
 ```markdown
+http://github.com - automatic!
+[GitHub](http://github.com)
 [Source Code](https://github.com/awzaldy/KamarKecil-Opengl/blob/master/FreedomFighter_Kelompok2.zip)
 ```
 [Source Code](https://github.com/awzaldy/KamarKecil-Opengl/blob/master/FreedomFighter_Kelompok2.zip)
