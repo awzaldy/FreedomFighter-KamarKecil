@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 [Youtube](https://www.youtube.com/watch?v=Wgt2vCaOvN0&feature=youtu.be) and ![Image](src)
 ```
-
+[Youtube](https://www.youtube.com/watch?v=Wgt2vCaOvN0&feature=youtu.be)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Freedom Fighter Team 
 Grafkom and Visualisation - A
