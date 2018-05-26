@@ -21,15 +21,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-https://youtu.be/Wgt2vCaOvN0 - automatic!
-[GitHub](https://youtu.be/Wgt2vCaOvN0)
-
-[https://youtu.be/Wgt2vCaOvN0](url) and ![Image](src)
+[Youtube](https://www.youtube.com/watch?v=Wgt2vCaOvN0&feature=youtu.be) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-https://www.youtube.com/watch?v=Wgt2vCaOvN0&feature=youtu.be
-
 ### Freedom Fighter Team 
 Grafkom and Visualisation - A
 ```markdown
