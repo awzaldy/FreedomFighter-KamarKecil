@@ -28,7 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Freedom Fighter Team 
 Grafkom and Visualisation - A
-
+```markdown
 Ahmad Wildan Rizaldy (145150207111120)
 Alamsyah Ramadhan (145150207111112)
 Muhammad Abdul Alim (145150207111118)
@@ -36,4 +36,4 @@ Arvin Adam Dakhota (145150201111126)
 Maulidia Nikmatul Iza (145150200111046)
 Dwi Christyanto Budhoyono (145150201111148)
 Farid Ulil Absor (155150201111206)
-
+```
