@@ -6,22 +6,9 @@ In this project we try to build small room with opengl. we build some object lik
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+Source Code Project Small Room
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Youtube](https://www.youtube.com/watch?v=Wgt2vCaOvN0&feature=youtu.be) and ![Image](src)
+[Source Code](https://github.com/awzaldy/KamarKecil-Opengl/blob/master/FreedomFighter_Kelompok2.zip)
 ```
 [Source Code](https://github.com/awzaldy/KamarKecil-Opengl/blob/master/FreedomFighter_Kelompok2.zip)
 [Youtube](https://www.youtube.com/watch?v=Wgt2vCaOvN0&feature=youtu.be)
