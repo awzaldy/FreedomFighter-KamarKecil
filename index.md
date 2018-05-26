@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Learning Opengl
 
-You can use the [editor on GitHub](https://github.com/awzaldy/FreedomFighter-KamarKecil/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this project we try to build small room with opengl. we build some object like a table,fan,bed, wardrobe, and the room itself. as addtional we give a point lighting from top of the room that can switch on/off with [space] so we can give some example while the room has a lighting and not. for the object, we try to build it from the cube, so after that we change it to some object that we want like a table and bed with additional texture. 
 
 ### Markdown
 
