@@ -21,6 +21,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+https://youtu.be/Wgt2vCaOvN0 - automatic!
+[GitHub](https://youtu.be/Wgt2vCaOvN0)
+
 [https://youtu.be/Wgt2vCaOvN0](url) and ![Image](src)
 ```
 
